@@ -1,8 +1,9 @@
-### Hi there 👋
 
 ### Hi there  <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
 I'm Amenya! a software engineer who is passionate about making great and maintainable software and helping others to do same through knowledge sharing. 
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
