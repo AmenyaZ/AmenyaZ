@@ -43,6 +43,7 @@ JSON         1 min           ░░░░░░░░░░░░░░░░░
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmenyaZ&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmenyaZ&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmenyaZ&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="AmenyaZ" height="165" />
 </p>
 
 
