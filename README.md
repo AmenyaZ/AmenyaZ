@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+${AmenyaZ}.${https://github.com/AmenyaZ/AmenyaZ}
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <!--
 **AmenyaZ/AmenyaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
