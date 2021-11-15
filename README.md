@@ -16,4 +16,4 @@ I'm Amenya! a software engineer who is passionate about making great and maintai
 - 🌐  Updating my personal website with examples of my work on <a href="https://amenyaz.github.io">ForeverRafs.com</a>
 - 🐦  Tweeting about the fragmentation of Android, beauty of C# and the love of Kotlin on <a href="https://twitter.com/Engr_Amenya">Twitter</a>
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=amenyaz_icons=true)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=AmenyaZ_icons=true)
