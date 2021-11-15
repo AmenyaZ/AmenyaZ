@@ -2,16 +2,18 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-**AmenyaZ/AmenyaZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there  <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-Here are some ideas to get you started:
+I'm Amenya! a software engineer who is passionate about making great and maintainable software and helping others to do same through knowledge sharing. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 💬 Ask me anything about mobile and backend development
+- 😄 Passionate about clean and maintainable code
+- ⚡ Fun fact: I still think PES is better than FIFA
+
+**🌎  Find me around the web :**
+- 💼  Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/zaccheaus-amenya/">LinkedIn</a>
+- 🌐  Updating my personal website with examples of my work on <a href="https://amenyaz.github.io">ForeverRafs.com</a>
+- 🐦  Tweeting about the fragmentation of Android, beauty of C# and the love of Kotlin on <a href="https://twitter.com/Engr_Amenya">Twitter</a>
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=amenyaz_icons=true)
