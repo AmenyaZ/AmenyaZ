@@ -20,7 +20,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: zamenya98@gmail.com;
 - 📝 [Resume](https://amenyaz.github.io).
@@ -30,8 +29,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Java         9 hrs 32 mins   ████████████████████████▒   97.70 % 
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Kotlin       9 hrs 32 mins   ████████████████████░░░░▒   95.70 % 
+Java         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
