@@ -47,9 +47,7 @@ JSON         1 min       ░░░░░░░░░░░░░░░░░░�
 </a>
   
    <p align="center"> 
-  [![Spotify](https://AmenyaZ.vercel.app/api/spotify)](https://open.spotify.com/user/31l7xwn746ku2f2av2x4iomkv2ni?si=e98fb20f9f3b4ab4)
+  [![Spotify](https://amenya-z-ocqk0jxno-amenyaz.vercel.app/api/spotify)](https://open.spotify.com/user/31l7xwn746ku2f2av2x4iomkv2ni?si=e98fb20f9f3b4ab4)
  
-
-
 
 
