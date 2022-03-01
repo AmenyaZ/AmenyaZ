@@ -45,12 +45,7 @@ JSON         1 min       ░░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/AmenyaZ/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmenyaZ&theme=highcontrast" />
 </a>
-  
-  <p align="center">            
-<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=4c710d39699245ad&redirect=true">
-  <img align="center" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31l7xwn746ku2f2av2x4iomkv2ni?si=4c710d39699245ad&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
-</a>
-</p>
+ 
 
 
 
