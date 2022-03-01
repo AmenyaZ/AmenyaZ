@@ -45,6 +45,9 @@ JSON         1 min       ░░░░░░░░░░░░░░░░░░�
 <a href="https://github.com/AmenyaZ/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmenyaZ&theme=highcontrast" />
 </a>
+  
+   <p align="center"> 
+  [![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
  
 
 
