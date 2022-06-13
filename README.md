@@ -14,7 +14,6 @@ I am a full-stack software engineer. I love programming, writing, speaking and t
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AmenyaZ/AmenyaZ/blob/main/coding.gif?raw=true" width="408" height="318" />
   
   <p align="center">  
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Amenya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmenyaZ&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
