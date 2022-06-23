@@ -15,17 +15,11 @@ I am a full-stack software engineer. I love programming, writing, speaking and t
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <br>
+
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmenyaZ" />
 </a>
 
-## Stuff I worked on last week⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@AmenyaZ&compact=True"/>
-</a>
-
-
-  
   <p align="center">  
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Amenya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmenyaZ&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
 </p>
