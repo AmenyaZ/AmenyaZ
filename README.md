@@ -21,7 +21,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </a>
 
 
-## Stuff I worked on last week⌚
+##
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
   <p align="center">  
