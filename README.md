@@ -21,7 +21,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 </a>
 
 
-<br>
+## Stuff I worked on last week⌚
+<a href="https://github.com/anuraghazra/github-readme-stats">
 
   <p align="center">  
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Amenya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmenyaZ&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
