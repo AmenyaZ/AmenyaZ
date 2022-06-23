@@ -20,9 +20,15 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmenyaZ" />
 </a>
 
+
+<br>
+
   <p align="center">  
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Amenya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmenyaZ&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
 </p>
+
+<br>
+
  
  <p align="center"> 
 <a href="https://github.com/AmenyaZ/github-readme-stats">
