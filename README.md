@@ -16,9 +16,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <br>
 
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmenyaZ" />
-</a>
+<figure><embed src="https://wakatime.com/share/@Engr_Amenya/4060bdef-dc67-400c-8da5-2b91d0a50593.svg"></embed></figure>
 
 
 ##
@@ -28,6 +26,10 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <a href="https://github.com/Finyasy/github-readme-activity-graph"><img alt="Amenya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AmenyaZ&bg_color=1F222E&color=F8D866&line=D9E650&point=FFFFFF&hide_border=true" /></a>
 </p>
 
+<br>
+<p align="center"> 
+<figure><embed src="https://wakatime.com/share/@Engr_Amenya/a753aaef-b826-4a1b-8064-bfa9d423b6d0.svg"></embed></figure>
+</p>
 <br>
 
  
