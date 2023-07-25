@@ -16,23 +16,24 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 <br>
 
-<figure><embed src="https://wakatime.com/share/@Engr_Amenya/4060bdef-dc67-400c-8da5-2b91d0a50593.svg"></embed></figure>
-
-
-##
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
+## Wakatime Stats
+> #### WakaTime Dashboard
+  <p align="center">
+    <img src="https://wakatime.com/share/@Engr_Amenya/6c7e9ad2-8d8f-4364-b5c4-09218dc1d6eb.svg" height="320" width="450">  &nbsp;  &nbsp;  &nbsp;  &nbsp; 
+   <img src="https://wakatime.com/share/@Engr_Amenya/398474ad-a56a-4635-968d-bf729d4785a8.svg" height= "320" width="420">
+  </p>
 <br>
 <p align="center"> 
 <figure><embed src="https://wakatime.com/share/@Engr_Amenya/a753aaef-b826-4a1b-8064-bfa9d423b6d0.svg"></embed></figure>
 </p>
 <br>
 
- 
+ <!--
  <p align="center"> 
 <a href="https://github.com/AmenyaZ/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmenyaZ&theme=highcontrast" />
 </a>
+-->
  
 
 
