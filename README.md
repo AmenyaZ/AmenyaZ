@@ -19,7 +19,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ## Wakatime Stats
 > #### WakaTime Dashboard
   <p align="center">
-    <img src="https://wakatime.com/share/@Engr_Amenya/6c7e9ad2-8d8f-4364-b5c4-09218dc1d6eb.svg" height="320" width="450">  &nbsp;  &nbsp;  &nbsp;  &nbsp; 
+    <img src="https://wakatime.com/share/@Engr_Amenya/6c7e9ad2-8d8f-4364-b5c4-09218dc1d6eb.svg" height="320" width="420">  &nbsp;  &nbsp;  &nbsp;  &nbsp; 
    <img src="https://wakatime.com/share/@Engr_Amenya/398474ad-a56a-4635-968d-bf729d4785a8.svg" height= "320" width="420">
   </p>
 <br>
